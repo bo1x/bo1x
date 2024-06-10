@@ -1,4 +1,5 @@
 ## Mi stack de tecnologias, cuanto más a la izquierda más comodo estoy usandolas 😊
+### En busca de una posición de programador de Gameplay o Backend.
 <div>
 
 ### Motores 🎮:
