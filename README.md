@@ -1,4 +1,4 @@
-## Mi stack de tecnologias, cuanto más a la izquierda más comodo estoy usandolas 😊
+## Mi stack de tecnologias.
 ### En busca de una posición de programador de Gameplay o Backend.
 
 Mi portfolio wapardo ->[Portfolio](https://bo1x.github.io/Portfolio/)
